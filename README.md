@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Generator-cakephp
 [![Build Status](https://secure.travis-ci.org/patrickhempel/generator-cakephp.png?branch=master)](https://travis-ci.org/patrickhempel/generator-cakephp)
 
@@ -17,4 +16,3 @@ generator-cakephp
 =================
 
 A Yeoman cakePHP generator
->>>>>>> 869904b9c0e6c579aa5b039653bdde9d609ae540
